@@ -32,7 +32,7 @@ You can start developing by editing the files inside the **app** directory. This
 
 Check out the video showcasing our app's features:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtube.com/shorts/VIDEO_ID?feature=share)
+[![Watch the video]](https://youtube.com/shorts/VIDEO_ID?feature=share)
 
 
 ## Get a fresh project
