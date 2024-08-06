@@ -1,4 +1,4 @@
-Here’s an updated version of your `README.md` file with a section for adding a video of your project:
+Here's the updated `README.md` with your YouTube video link included:
 
 ```markdown
 # Welcome to your Expo app 👋
@@ -32,9 +32,7 @@ You can start developing by editing the files inside the **app** directory. This
 
 Check out the video showcasing our app's features:
 
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)][(https://www.youtube.com/watch?v=your-video-id)](https://youtube.com/shorts/rdK8xT7O5dw?feature=share)
-
-Replace `your-video-id` with the actual ID of your video on YouTube or other video platforms. This will provide a visual demonstration of what your app looks like and how it functions.
+[![Watch the video](https://img.youtube.com/vi/rdK8xT7O5dw/maxresdefault.jpg)](https://youtube.com/shorts/rdK8xT7O5dw?feature=share)
 
 ## Get a fresh project
 
@@ -60,4 +58,3 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 ```
-
